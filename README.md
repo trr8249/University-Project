@@ -9,7 +9,7 @@
 ## 데이터 통신 프로토콜
 <img width="55%" alt="data_network_al" src="https://github.com/user-attachments/assets/de995bd2-9a39-4182-b6d4-94d931fc4a71" />
 
-## 야간 쓰레기(캔) 수거 TEST 영상
+## 결과 영상: 야간 쓰레기(캔) 수거
 <img src="./images/trash move.gif" width="700"/>
 
 ## Viewing Tip
