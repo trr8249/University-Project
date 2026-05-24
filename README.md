@@ -1,9 +1,17 @@
 #### GPIO_cap_arm_org 파일은 프로젝트 당시에 매니퓰레이터 제어에 사용했던 코드, GPIO_cap_arm_reROS는 해당 코드를 ROS 기반으로 사용가능하게 변환한 코드기재했습니다.
 
-#### 주관: 계명대학교 지방대학활성화사업단수행과제
-#### 기간: 2023.03.02 ~ 2023.06.08
-#### 프로젝트 이름: 매니퓰레이터 활용 쓰레기 수거용 사륜구동 원격제어 시스템
-#### 역할: 하드웨어 담당(재료 선정, 디자인, 조립, 무게중심 문제 해결), 제어 알고리즘 개발
+## Viewing Tip
+For better readability, open the `.ipynb` file in Jupyter Notebook.  
+You can collapse or expand each section using the arrow button on the left side of each cell.
+
+## Jupyter Notebook 사용 안내
+Jupyter Notebook 파일(`.ipynb`)에 각 프로젝트에 대해 정리되어있습니다.
+
+다운로드한 Jupyter Notebook 파일을 실행하면, 각 셀 왼쪽의 화살표를 통해 코드와 내용를 접거나 펼칠 수 있어 보다 편하게 내용을 확인할 수 있습니다.
+
+유의사항: Notebook 내 이미지가 정상적으로 출력되도록 `images` 폴더를 같이 다운받아 경로에 함께 위치시켜 주세요.
+
+src 디렉토리에는 사용했던 코드가 기재되어있습니다.
 
 ## 개발환경:
 하드웨어 - 라즈베리파이 4B(4GB), MG996서보모터(360°), 15kg 디지털어시스 서보 모터(180°),25T 서보모터 알루미늄 혼(원형), DC 12V 320RPM 마이크로 기어 모터,
