@@ -3,7 +3,7 @@
 
 <img width="50%" alt="robot_move_al" src="https://github.com/user-attachments/assets/f970bd8f-6e2b-451a-b5be-3a4e77410a73" />
 
-<img width="50%" alt="data_network_al" src="https://github.com/user-attachments/assets/de995bd2-9a39-4182-b6d4-94d931fc4a71" />
+<img width="55%" alt="data_network_al" src="https://github.com/user-attachments/assets/de995bd2-9a39-4182-b6d4-94d931fc4a71" />
 
 
 ## Viewing Tip
