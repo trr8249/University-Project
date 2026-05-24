@@ -1,4 +1,7 @@
-#### GPIO_cap_arm_org 파일은 프로젝트 당시에 매니퓰레이터 제어에 사용했던 코드, GPIO_cap_arm_reROS는 해당 코드를 ROS 기반으로 사용가능하게 변환한 코드입니다.
+## 프로젝트명: 매니퓰레이터 활용 쓰레기 수거용 사륜구동 원격제어 시스템
+GPIO_cap_arm_org 파일은 프로젝트 당시에 매니퓰레이터 제어에 사용했던 코드, 
+
+GPIO_cap_arm_reROS는 해당 코드를 ROS 기반으로 사용가능하게 변환한 코드입니다.
 
 ## Viewing Tip
 For better readability, open the `.ipynb` file in Jupyter Notebook.  
