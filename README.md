@@ -1,6 +1,5 @@
 ## 프로젝트명: 매니퓰레이터 활용 쓰레기 수거용 사륜구동 원격제어 시스템
-<img width="1474/2" height="1093/2" alt="robot" src="https://github.com/user-attachments/assets/7c8648db-7446-445c-97b3-3d4f9a5c8a44" />
-
+<img width="50%" alt="robot" src="https://github.com/user-attachments/assets/7c8648db-7446-445c-97b3-3d4f9a5c8a44" />
 
 ## Viewing Tip
 For better readability, open the `.ipynb` file in Jupyter Notebook.  
