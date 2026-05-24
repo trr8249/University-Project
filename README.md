@@ -1,5 +1,5 @@
 ## 프로젝트명: 매니퓰레이터 활용 쓰레기 수거용 사륜구동 원격제어 시스템
-<img width="1474*0.7" height="109.3*0.7" alt="robot" src="https://github.com/user-attachments/assets/7c8648db-7446-445c-97b3-3d4f9a5c8a44" />
+<img width="1474*0.5" height="109.3*0.5" alt="robot" src="https://github.com/user-attachments/assets/7c8648db-7446-445c-97b3-3d4f9a5c8a44" />
 
 
 ## Viewing Tip
