@@ -26,5 +26,5 @@ src 디렉토리에는 사용했던 코드가 기재되어있습니다.
 ## 데이터 통신 프로토콜
 <img width="55%" alt="data_network_al" src="https://github.com/user-attachments/assets/de995bd2-9a39-4182-b6d4-94d931fc4a71" />
 
-## 산업용 로봇, AMR, AI 활용 로봇 프로젝트 링크: (https://github.com/trr8249/Robot_Project.git)
+## 산업용 로봇, AMR, AI 활용 로봇 프로젝트 링크: https://github.com/trr8249/Robot_Project.git
 
