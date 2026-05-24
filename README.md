@@ -2,6 +2,8 @@
 GPIO_cap_arm_org 파일은 프로젝트 당시에 매니퓰레이터 제어에 사용했던 코드, 
 
 GPIO_cap_arm_reROS는 해당 코드를 ROS 기반으로 사용가능하게 변환한 코드입니다.
+<img width="1474" height="1093" alt="robot" src="https://github.com/user-attachments/assets/7c8648db-7446-445c-97b3-3d4f9a5c8a44" />
+
 
 ## Viewing Tip
 For better readability, open the `.ipynb` file in Jupyter Notebook.  
