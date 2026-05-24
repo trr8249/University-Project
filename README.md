@@ -1,8 +1,11 @@
 ## 프로젝트명: 매니퓰레이터 활용 쓰레기 수거용 사륜구동 원격제어 시스템
+
+## ROBOT 외관
 <img width="50%" alt="robot" src="https://github.com/user-attachments/assets/7c8648db-7446-445c-97b3-3d4f9a5c8a44" />
+## 로봇 이동 제어 Algorithm
+<img width="50%" alt="robot_move_al_" src="https://github.com/user-attachments/assets/8bf4b39d-52a5-4c54-8e4c-f7bc89e4dddd" />
 
-<img width="50%" alt="robot_move_al" src="https://github.com/user-attachments/assets/f970bd8f-6e2b-451a-b5be-3a4e77410a73" />
-
+## 데이터 통신 프로토콜
 <img width="55%" alt="data_network_al" src="https://github.com/user-attachments/assets/de995bd2-9a39-4182-b6d4-94d931fc4a71" />
 
 
